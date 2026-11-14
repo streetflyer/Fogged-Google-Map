@@ -1,0 +1,6 @@
+{
+  "name": "TerraIncognita: Fog of War Neighborhood Explorer",
+  "description": "Gamified real-world map exploration with dynamic Fog of War that clears as you walk, neighborhood quests, explorer leveling, and outdoor adventure tracking.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
